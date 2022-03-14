@@ -30,7 +30,7 @@ var settings = {
 
 init(settings);
 
-//w/ onclick 
+//onclick 
 function left() {
     index--;
     showSlide(index);
@@ -41,7 +41,7 @@ function right() {
     showSlide(index);
 }
 
-// w/ DOM
+// DOM
 // document.querySelector('.fa-circle-arrow-left').addEventListener('click', function () {
 //     index--;
 //     showSlide(index);
