@@ -1,0 +1,9 @@
+.fa-circle-arrow-left, .fa-circle-arrow-right{
+    cursor: pointer;
+}
+.fa-circle-arrow-right{
+    float: right;
+}
+.container{
+    margin-top: 2em;
+}
